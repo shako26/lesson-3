@@ -1,0 +1,38 @@
+
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.logo{
+    height: 125px; 
+    border: 10%;
+}
+header{
+    background-color: rgb(0, 0, 80);
+    
+}
+a{
+  color: white;
+}
+.a{
+    background-color: white;
+    color: black;
+    border-radius: 15%;
+}
+p{
+height: 4px;
+border-style: groove
+}
+.binis{   
+    object-fit: contain;
+    margin: 50px ;  
+    box-sizing: border-box;
+    
+}
+.otaxebi{
+    width: 250px;
+    height: 270px;
+    object-fit: cover;
+}
